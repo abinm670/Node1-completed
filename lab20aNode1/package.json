@@ -1,0 +1,15 @@
+{
+  "name": "lab20anode1",
+  "version": "1.0.0",
+  "description": "A sample web service to help learn Node ",
+  "main": "stock.js",
+  "scripts": {
+    "test": "yes"
+  },
+  "author": "Abdullah Binmahfouz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.5"
+  }
+}
